@@ -1,0 +1,15 @@
+From: security@paypa1.com
+To: user@example.com
+Subject: Urgent! Your PayPal account is locked!
+
+Dear Customer,
+
+We noticed unusual activity in your PayPal account. To protect your money, we have temporarily limited your account access.
+
+Click the link below to confirm your identity:
+http://paypal-verification-alerts.com/login
+
+Failure to act immediately may result in permanent suspension of your account.
+
+Thank you,  
+PayPal Security Team
